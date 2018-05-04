@@ -1,0 +1,5 @@
+Andrew,Asparagus,Rm 100,Bluff Hall,Edwardsville,IL,62025,123 E. Grove,,Farmland,IL,62305,CS
+CS111,Concepts of Computer Science,3.0,A
+CS140,Introduction to Computing I,4.0,B
+CS150,Introduction to Computing II,3.0,A
+FR101,Elementary French,3.0,A
